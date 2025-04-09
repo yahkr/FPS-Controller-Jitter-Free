@@ -3,7 +3,7 @@ using System;
 
 public partial class MouseLook : Node3D
 {
-    [Export] private float _sensitivity = 40f;
+    [Export] private float _sensitivity = 30f;
 
     private Vector2 _motion;
 

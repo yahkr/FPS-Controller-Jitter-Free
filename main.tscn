@@ -1,10 +1,10 @@
 [gd_scene load_steps=16 format=3 uid="uid://ciu2c1bwjyd4x"]
 
-[ext_resource type="Script" uid="uid://cpu35sbp74g1x" path="res://Character.cs" id="1_0xm2m"]
-[ext_resource type="Material" uid="uid://bnomxsdqw2wle" path="res://dev_grid_0.tres" id="1_ig7tw"]
-[ext_resource type="Script" uid="uid://chvs6hv6dl8pb" path="res://Follow.cs" id="1_lquwl"]
-[ext_resource type="Script" uid="uid://haxha0flw2vx" path="res://MouseLook.cs" id="2_h2yge"]
-[ext_resource type="Material" uid="uid://s5hkigs1y85w" path="res://dev_grid_1.tres" id="4_1bvp3"]
+[ext_resource type="Script" uid="uid://cpu35sbp74g1x" path="res://scripts/Character.cs" id="1_0xm2m"]
+[ext_resource type="Material" uid="uid://bnomxsdqw2wle" path="res://assets/dev_grid_0.tres" id="1_ig7tw"]
+[ext_resource type="Script" uid="uid://chvs6hv6dl8pb" path="res://scripts/Follow.cs" id="1_lquwl"]
+[ext_resource type="Script" uid="uid://haxha0flw2vx" path="res://scripts/MouseLook.cs" id="2_h2yge"]
+[ext_resource type="Material" uid="uid://s5hkigs1y85w" path="res://assets/dev_grid_1.tres" id="4_1bvp3"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_ig7tw"]
 margin = 0.0

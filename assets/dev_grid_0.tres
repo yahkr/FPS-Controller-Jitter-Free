@@ -1,7 +1,7 @@
 [gd_resource type="ShaderMaterial" load_steps=3 format=3 uid="uid://bnomxsdqw2wle"]
 
-[ext_resource type="Shader" uid="uid://dq72dacbbfwb2" path="res://dev_grid.gdshader" id="1_k4g01"]
-[ext_resource type="Texture2D" uid="uid://dforxta0f0hav" path="res://generic.png" id="2_vspaj"]
+[ext_resource type="Shader" uid="uid://dq72dacbbfwb2" path="res://assets/dev_grid.gdshader" id="1_k4g01"]
+[ext_resource type="Texture2D" uid="uid://dforxta0f0hav" path="res://assets/generic.png" id="2_vspaj"]
 
 [resource]
 render_priority = 0
