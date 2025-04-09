@@ -1,0 +1,16 @@
+[gd_resource type="ShaderMaterial" load_steps=3 format=3 uid="uid://bnomxsdqw2wle"]
+
+[ext_resource type="Shader" uid="uid://dq72dacbbfwb2" path="res://dev_grid.gdshader" id="1_k4g01"]
+[ext_resource type="Texture2D" uid="uid://dforxta0f0hav" path="res://generic.png" id="2_vspaj"]
+
+[resource]
+render_priority = 0
+shader = ExtResource("1_k4g01")
+shader_parameter/solid = false
+shader_parameter/Floor = Color(0.28485, 0.28485, 0.28485, 1)
+shader_parameter/Wall = Color(0.127573, 0.612702, 0.918202, 1)
+shader_parameter/Lines = Color(0.505344, 0.505344, 0.505344, 1)
+shader_parameter/Texture = ExtResource("2_vspaj")
+shader_parameter/triplanar_scale = Vector3(1, 1, 1)
+shader_parameter/triplanar_offset = Vector3(0, 0, 0)
+shader_parameter/triplanar_sharpness = 0.5
