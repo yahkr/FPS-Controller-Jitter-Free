@@ -26,6 +26,5 @@ public partial class MouseLook : Node3D
         RotateY(-Mathf.DegToRad(_motion.X) * (float)delta * _sensitivity);
         RotateObjectLocal(-Vector3.Left, -Mathf.DegToRad(_motion.Y) * (float)delta * _sensitivity);
         _motion = Vector2.Zero;
-        // LookAt(target.GlobalPosition, Vector3.Up);
     }
 }
