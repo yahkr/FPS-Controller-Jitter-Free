@@ -10,3 +10,5 @@ player_left (A)
 player_right (D)
 quit (Escape or Alt+Q)
 ```
+
+![image](https://github.com/user-attachments/assets/23c7a99d-077b-4e2a-a2da-b01356d26cd2)
